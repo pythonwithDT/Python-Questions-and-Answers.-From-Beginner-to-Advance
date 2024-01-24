@@ -1,10 +1,6 @@
-'''
-Create two variables, name and age, and assign 
-your name and age to them, respectively. 
-Combine them to form a full name and print,
-(Hello (name)! You are (age) years old).
-
-'''
+'''Write a Python program that declares two variables, name and age. 
+Assign your name to the name variable and your age to the age variable. 
+Then, print a message that says "Hello, [name]! You are [age] years old." '''
 
 # First Solution
 name = "John"
