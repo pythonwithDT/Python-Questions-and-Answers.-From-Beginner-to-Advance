@@ -1,6 +1,6 @@
 # Python Questions and Answers Repository
 
-Welcome to the "Python Questions and Answers" repository! 🐍 This repository is dedicated to providing a comprehensive collection of Python programming questions and their detailed solutions, covering a wide range of difficulty levels from beginner to advanced.
+Welcome to the "Python Questions and Answers" repository! This repository is dedicated to providing a comprehensive collection of Python programming questions and their detailed solutions, covering a wide range of difficulty levels from beginner to advanced.
 
 ## Why This Repository?
 
