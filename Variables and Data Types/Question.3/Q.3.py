@@ -6,3 +6,6 @@ print the str_numbers list. '''
 
 # Solution
 
+numbers = [1, 2, 3, 4, 5]
+str_numbers = [str(num) for nun in numbers]
+print(str_numbers)
