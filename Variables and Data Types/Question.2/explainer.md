@@ -1,4 +1,4 @@
-The code you provided has two solutions to achieve the same output, which is to print a greeting message with the person's name and age. Let's break down each solution:
+
 
 1. **First Solution:**
    ```python
