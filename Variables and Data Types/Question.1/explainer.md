@@ -1,4 +1,4 @@
-Certainly! Let's break down the provided Python code:
+Let's break down the provided Python code:
 
 ```python
 # Declare a variable called my_number and assign the value 42 to it.
